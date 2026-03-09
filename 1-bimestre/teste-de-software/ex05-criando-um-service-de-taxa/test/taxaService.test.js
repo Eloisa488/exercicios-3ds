@@ -1,5 +1,5 @@
-const { describe } = require("yargs")
-const calcularTaxa = require("../Service/taxaService")
+
+const calcularTaxa = require("../services/taxaService")
 
 
 describe("testar taxaService", () => {
